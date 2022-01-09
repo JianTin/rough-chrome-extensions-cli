@@ -1,0 +1,20 @@
+{
+  "name": "rough-chrome-extensions-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "./bin/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chrome-extensions",
+    "parcel"
+  ],
+  "author": "lijianhao",
+  "license": "ISC",
+  "dependencies": {
+    "download-git-repo": "^3.0.2",
+    "ora": "^5.4.0"
+  }
+}
