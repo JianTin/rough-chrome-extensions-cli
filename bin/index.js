@@ -21,7 +21,6 @@ if(existsSync(RepoDestination)) {
                 spinner.succeed(`repo success`)
                 console.log(`cd ${RepoDestination}`)
                 console.log('npm install')
-                console.log('npm run copy')
                 console.log('npm run watch')
             }
         }
